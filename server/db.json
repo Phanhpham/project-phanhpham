@@ -1,0 +1,233 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "user_id": 70,
+      "username": "phanh2005",
+      "fullName": "Pham Phuong Anh",
+      "email": "Phuonganh2611@gmail.com",
+      "password": "hoang2005",
+      "status": true,
+      "role": false,
+      "avatar": "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s200x200&_nc_cat=1&ccb=1-7&_nc_sid=136b72&_nc_ohc=VVXDQ2ftWTsQ7kNvgEsTadt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AXp3jmeNWjNNYIBHePTAf1C&oh=00_AYDz8-sNB58RG9XND9CXST7E2TwhmKQT842F2Wnbd1CajQ&oe=6701DFBA",
+      "phone": "12345678",
+      "created_at": "06-09-2024 11:35:21",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "user_id": 7912,
+      "username": "nguyen2005",
+      "fullName": "Nguyễn Thị Nguyên",
+      "email": "nguyen2005@gmail.com",
+      "password": "nguyen2005",
+      "status": true,
+      "role": false,
+      "avatar": "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s200x200&_nc_cat=1&ccb=1-7&_nc_sid=136b72&_nc_ohc=VVXDQ2ftWTsQ7kNvgEsTadt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AXp3jmeNWjNNYIBHePTAf1C&oh=00_AYDz8-sNB58RG9XND9CXST7E2TwhmKQT842F2Wnbd1CajQ&oe=6701DFBA",
+      "phone": "",
+      "created_at": "06-09-2024 11:37:02",
+      "updated_at": ""
+    },
+    {
+      "id": 3,
+      "user_id": 5288,
+      "username": "Hanh",
+      "fullName": "Lee Hanh",
+      "email": "hanh@gmail.com",
+      "password": "1234567",
+      "status": true,
+      "role": false,
+      "avatar": "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s200x200&_nc_cat=1&ccb=1-7&_nc_sid=136b72&_nc_ohc=VVXDQ2ftWTsQ7kNvgEsTadt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AXp3jmeNWjNNYIBHePTAf1C&oh=00_AYDz8-sNB58RG9XND9CXST7E2TwhmKQT842F2Wnbd1CajQ&oe=6701DFBA",
+      "phone": "",
+      "created_at": "06-09-2024 15:07:36",
+      "updated_at": ""
+    },
+    {
+      "username": "phanh",
+      "email": "phanh123@gmail.com",
+      "password": "1234",
+      "confirm": "1234",
+      "id": 4
+    },
+    {
+      "username": "hoangit",
+      "email": "phanh13@gmail.com",
+      "img": "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s200x200&_nc_cat=1&ccb=1-7&_nc_sid=136b72&_nc_ohc=VVXDQ2ftWTsQ7kNvgEsTadt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AXp3jmeNWjNNYIBHePTAf1C&oh=00_AYDz8-sNB58RG9XND9CXST7E2TwhmKQT842F2Wnbd1CajQ&oe=6701DFBA",
+      "password": "1234",
+      "confirm": "1234",
+      "id": 5
+    },
+    {
+      "username": "phanh",
+      "email": "phanh113@gmail.com",
+      "img": "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s200x200&_nc_cat=1&ccb=1-7&_nc_sid=136b72&_nc_ohc=VVXDQ2ftWTsQ7kNvgEsTadt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AXp3jmeNWjNNYIBHePTAf1C&oh=00_AYDz8-sNB58RG9XND9CXST7E2TwhmKQT842F2Wnbd1CajQ&oe=6701DFBA",
+      "password": "1234",
+      "confirm": "1234",
+      "create_at": "09/09/2024 15:58:52",
+      "id": 6
+    },
+    {
+      "username": "phanh",
+      "email": "phanh23@gmail.com",
+      "img": "https://scontent.fhan18-1.fna.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s200x200&_nc_cat=1&ccb=1-7&_nc_sid=136b72&_nc_ohc=VVXDQ2ftWTsQ7kNvgEsTadt&_nc_ht=scontent.fhan18-1.fna&_nc_gid=AXp3jmeNWjNNYIBHePTAf1C&oh=00_AYDz8-sNB58RG9XND9CXST7E2TwhmKQT842F2Wnbd1CajQ&oe=6701DFBA",
+      "password": "1111",
+      "confirm": "1111",
+      "created_at": "09/09/2024 16:01:02",
+      "id": 7
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "productname": "ahe ring",
+      "img": "https://i.pinimg.com/564x/57/0a/c5/570ac5b3e2aab93c5875d19e26f0ed3e.jpg",
+      "price": 130000,
+      "stock": 120,
+      "category": "trang sức",
+      "created_at": "08-12-2024 11:35:21",
+      "updated_at": ""
+    },
+    {
+      "id": 2,
+      "productname": "The bear",
+      "img": "https://i.pinimg.com/564x/38/a9/9e/38a99ef27007cfae409d65c0b935c9d8.jpg",
+      "price": 140000,
+      "stock": 180,
+      "category": "gấu bông",
+      "created_at": "03-12-2024 11:35:21",
+      "updated_at": ""
+    },
+    {
+      "productname": "Creative Gift Basket",
+      "img": "https://i.pinimg.com/564x/f4/48/c8/f448c85516780f0a1e2c012ab3136dcd.jpg",
+      "price": 323000,
+      "stock": "123",
+      "created_at": "10/09/2024",
+      "category": "packet",
+      "updated_at": "",
+      "id": 3
+    },
+    {
+      "productname": "Creative Gift Basket",
+      "img": "https://i.pinimg.com/564x/98/f5/40/98f540e3d72584feb075bf74b157aaa3.jpg",
+      "price": 443000,
+      "stock": "123",
+      "category": "packet",
+      "created_at": "12/09/2024",
+      "updated_at": "",
+      "id": 4
+    },
+    {
+      "productname": "Stainless Steel Heart",
+      "img": "https://i.pinimg.com/564x/21/5e/89/215e89db339eadb755f91724bb780054.jpg",
+      "price": 500000,
+      "stock": "123",
+      "category": "trang sức",
+      "created_at": "12/09/2024",
+      "updated_at": "",
+      "id": 5
+    },
+    {
+      "productname": "Brush and comb set",
+      "img": "https://i.pinimg.com/564x/f6/85/e5/f685e509a8766450e82ba7969a371554.jpg",
+      "price": 900000,
+      "stock": "63",
+      "category": "brush and comb",
+      "created_at": "12/02/2024",
+      "updated_at": "",
+      "id": 6
+    },
+    {
+      "productname": "Stuffed Animal Ever",
+      "img": "https://i.pinimg.com/564x/f5/ba/8f/f5ba8f283bf569aa889bd4add026aa96.jpg",
+      "price": 245000,
+      "stock": "633",
+      "category": "gấu bông",
+      "created_at": "12/12/2024",
+      "updated_at": "",
+      "id": 7
+    },
+    {
+      "productname": "Babyshower pakket",
+      "img": "https://i.pinimg.com/564x/23/fd/00/23fd009ed38ffecfa8cf127288774a1f.jpg",
+      "price": 345000,
+      "stock": "633",
+      "category": "packet",
+      "created_at": "12/02/2024",
+      "updated_at": "",
+      "id": 8
+    }
+  ],
+  "categorys": [
+    {
+      "id": 2,
+      "name": "Trang suc"
+    },
+    {
+      "id": 3,
+      "name": "Packet"
+    },
+    {
+      "name": "Brush and comb",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "idUser": 1,
+      "product": {
+        "productname": "The bear",
+        "img": "https://i.pinimg.com/564x/38/a9/9e/38a99ef27007cfae409d65c0b935c9d8.jpg",
+        "price": 140000,
+        "stock": 5,
+        "id": 2
+      },
+      "id": 1
+    },
+    {
+      "idUser": "1",
+      "product": {
+        "productname": "ahe ring",
+        "img": "https://i.pinimg.com/564x/57/0a/c5/570ac5b3e2aab93c5875d19e26f0ed3e.jpg",
+        "price": 130000,
+        "stock": 1,
+        "id": 1
+      },
+      "id": 2,
+      "stock": 1
+    },
+    {
+      "idUser": 1,
+      "product": {
+        "productname": "Brush and comb set",
+        "img": "https://i.pinimg.com/564x/f6/85/e5/f685e509a8766450e82ba7969a371554.jpg",
+        "price": 900000,
+        "stock": 1,
+        "id": 6
+      },
+      "id": 3
+    },
+    {
+      "idUser": 1,
+      "product": {
+        "productname": "Creative Gift Basket",
+        "img": "https://i.pinimg.com/564x/f4/48/c8/f448c85516780f0a1e2c012ab3136dcd.jpg",
+        "price": 323000,
+        "stock": 1,
+        "id": 3
+      },
+      "id": 4
+    },
+    {
+      "idUser": 1,
+      "product": {
+        "productname": "Creative Gift Basket",
+        "img": "https://i.pinimg.com/564x/98/f5/40/98f540e3d72584feb075bf74b157aaa3.jpg",
+        "price": 443000,
+        "stock": 1,
+        "id": 4
+      },
+      "id": 5
+    }
+  ]
+}

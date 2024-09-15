@@ -1,0 +1,4 @@
+{
+  "/components/Detail/[id]/page": "app/components/Detail/[id]/page.js",
+  "/page": "app/page.js"
+}
